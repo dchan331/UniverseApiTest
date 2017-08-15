@@ -1,0 +1,17 @@
+{
+  "name": "backend_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "dchan331 <dchan331@gmail.com>",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0"
+  },
+  "repository": "https://github.com/dchan331/ShopifyBackEndChallenge"
+}
